@@ -73,7 +73,6 @@ for (i = 0 ; i < movies["Terminator 2"]["reviews"].length; i++){
 });
   
   
-  
 
 
 
